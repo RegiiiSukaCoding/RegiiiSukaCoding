@@ -67,7 +67,15 @@ Goal:
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman"/>
+<div align="center">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white"/>
 
 </div>
 
