@@ -121,8 +121,8 @@ Goal:
     srcset="https://raw.githubusercontent.com/RegiiiSukaCoding/RegiiiSukaCoding/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/RegiiiSukaCoding/RegiiiSukaCoding/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/RegiiiSukaCoding/RegiiiSukaCoding/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
