@@ -77,15 +77,9 @@ Goal:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RegiiiSukaCoding&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RegiiiSukaCoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegiiiSukaCoding&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=RegiiiSukaCoding&theme=tokyonight&hide_border=true"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RegiiiSukaCoding&theme=tokyo-night&hide_border=true"/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RegiiiSukaCoding&theme=tokyonight&no-frame=true&no-bg=true&column=4"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegiiiSukaCoding&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
